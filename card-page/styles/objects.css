@@ -1,0 +1,16 @@
+.title {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.text--highlight {
+  font-weight: 600;
+  font-size: 15px;
+  color: hsl(178, 100%, 50%);
+}
