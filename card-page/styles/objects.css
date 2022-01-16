@@ -14,3 +14,16 @@
   font-size: 15px;
   color: hsl(178, 100%, 50%);
 }
+
+
+.background--yellow {
+  background-color: orange;
+}
+
+.background--green {
+  background-color: green;
+}
+
+.color--yellow {
+  color: orange;
+}
