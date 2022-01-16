@@ -1,0 +1,10 @@
+.title {
+  font-family: "Fraunces", serif;
+  font-size: 40px;
+  letter-spacing: 10px;
+  color: white;
+}
+
+.clickable {
+  cursor: pointer;
+}

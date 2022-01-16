@@ -1,0 +1,7 @@
+.button {
+  font-family: "Fraunces", serif;
+  background-color: white;
+  padding: 12px 24px;
+  border-radius: 100px;
+  text-transform: uppercase;
+}

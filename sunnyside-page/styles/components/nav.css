@@ -1,0 +1,29 @@
+.nav {
+  width: 100vw;
+  display: flex;
+  padding: 32px;
+  height: fit-content;
+  justify-content: space-between;
+  color: white;
+  background-color: #3dbeff;
+  z-index: 1;
+  position: fixed;
+}
+
+.nav__right {
+  display: flex;
+  align-items: center;
+  gap: 56px;
+  font-family: "Barlow", sans-serif;
+}
+
+.nav__links {
+  display: flex;
+  gap: 32px;
+}
+
+.nav__logo {
+  font-family: "Barlow", sans-serif;
+  font-size: 600;
+  font-size: 24px;
+}
